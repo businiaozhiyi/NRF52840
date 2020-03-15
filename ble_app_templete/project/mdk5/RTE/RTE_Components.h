@@ -4,7 +4,7 @@
  *      *** Do not modify ! ***
  *
  * Project: 'ble_app_templete_s140' 
- * Target:  'flash_s140_nrf52_6.1.0_softdevice' 
+ * Target:  'IK-52840' 
  */
 
 #ifndef RTE_COMPONENTS_H
